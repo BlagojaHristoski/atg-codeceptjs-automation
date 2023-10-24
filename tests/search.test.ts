@@ -1,6 +1,6 @@
 import { generalPage } from '../pages/general.page'
 import * as gc_items from '../lib/data/production.json'
-Feature('GC PROD SEARCH BAR')
+Feature('Gc Production Search Scripts')
 
 const items = gc_items.GC.items
 
