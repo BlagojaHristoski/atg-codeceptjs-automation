@@ -1,4 +1,4 @@
-# PlugShare Dashboard Web Test Automation
+# ATG automation scripts
 Test automation using https://codecept.io framework.
 
 # Installation
